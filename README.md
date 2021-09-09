@@ -1,4 +1,4 @@
-# do-you-know-got
+# How well do you know 'Games of Thrones'?
 
 This is a CLI app 'How well do you know 'Games of Thrones'?' which is quiz about GOT show.
 
