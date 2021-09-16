@@ -30,6 +30,7 @@ function play(question , answer) {
 
           score =score - 1;
         }
+      console.log(chalk.yellow("Your Current score is: " +score));
 }
 
 var question = [{
